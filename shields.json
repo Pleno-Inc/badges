@@ -1,1 +1,1 @@
-{"${REPO}-nightly":{"label":"Nightly Tests (latest)","icon":"github","status":"unknown","color":"grey"}}
+{"${REPO}-nightly":{"label":"Nightly Tests (latest)","icon":"github","status":"unknown","color":"grey"},"${REPO}-pr":{"label":"PR Tests","icon":"github","status":"failing","color":"red"}}
